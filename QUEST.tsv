@@ -135,48 +135,48 @@ QUEST_20150317_000134	Hoplite Master
 QUEST_20150317_000135	$If the sword is a symbol of power, then the spear is that of pure destruction. {nl}Power or destruction - what would you reach for on the battlefield?
 QUEST_20150317_000136	Machine Worker
 QUEST_20150317_000137	Even with the world as chaotic as it is, we can't stop working. {nl}It's been four years. Isn't it time to make peace with it and start over?
-QUEST_20150317_000138	Klaipeda is a town that lives off its mining. {nl}With Medis Diena, we ought to work on planting trees or cutting them.
-QUEST_20150317_000139	My old man did this thing where he checked around corners for anything nice. {nl}Sometimes, he'd get lucky and find a nice treasure chest. I wonder who leaves them there.
-QUEST_20150317_000140	Retired Hunter
-QUEST_20150317_000141	I remember this battle in a deep canyon where soldiers fought a huge monster. {nl}Seeing the giant thing fall was amazing, but what was more amazing was the spoils.
-QUEST_20150317_000142	Old Potter
-QUEST_20150317_000143	I put a prayer on my earthenware, one by one. {nl}That way, the pots will one day be filled with the Goddess' blessings.
-QUEST_20150317_000144	{memo X}Swordsmen should have Strength, but you can also have Dexterity and Constitution. {nl}You'll need to think about what to start with.
-QUEST_20150317_000145	Wizards work with Intelligence, but shouldn't forget Spirit for more spell-casting. {nl}You'll have to choose between being balanced or specializing.
-QUEST_20150317_000146	{memo X}Archers should have Strength, but Dexterity will prevent problems with movement. {nl}You'll need to think about what to start with.
-QUEST_20150317_000147	{memo X}Clerics work with Intelligence, but might need a lot of Strength or Spirit. {nl}You should really decide what you want, first.
-QUEST_20150317_000148	Doppelsoeldner Master
-QUEST_20150317_000149	Worthwhile things always carry a degree of risk. {nl}Naturally, for big rewards, you'll have to put up with lots of danger.
-QUEST_20150317_000150	Corsair Master
-QUEST_20150317_000151	{memo X}I won't help anyone in trouble if there isn't anything in it for me.
-QUEST_20150317_000152	Boulder
-QUEST_20150317_000153	A large boulder is blocking the way.
-QUEST_20150317_000154	It needs to be repaired.
-QUEST_20150317_000155	{memo X}A boulder blocks the way.
-QUEST_20150317_000156	Magical Research Material
-QUEST_20150317_000157	It appears to be someone's research notes from Mage Tower. {nl}Should it be copied?
-QUEST_20150317_000158	{memo X}Hiding and sneaking won't solve all your problems. {nl}A true Scout must also be ready to fight.
-QUEST_20150317_000159	{memo X}You're gonna need a lot of things when travelling. {nl}Be sure to stock up your provisions in advance.
-QUEST_20150317_000160	If the control magic is dispelled, the divine messages won't be protected.
-QUEST_20150317_000161	Forgotten Thief's Cenotaph
-QUEST_20150317_000162	$I, Zubeck, leave this epitaph. {nl}For the honor of being the greatest thief in history, I challenged a powerful sorcerer.
-QUEST_20150317_000163	$But could I, a mere thief, claim victory by merely stealing from her? {nl}Perhaps, if I could rob the greatest archmage blind.
-QUEST_20150317_000164	$Yet, I couldn't. {nl}I wanted to be the number one thief in all of history, not just today.
-QUEST_20150317_000165	$I have at last discovered a way to enter the Mage Tower. {nl}To do so one has to concentrate magic power at a specific place. {nl}Now, I only need take one more decisive step.
-QUEST_20150317_000166	$Then, my special device will activate. {nl}If you do as I did, you will be able to enter the tower as well.
-QUEST_20150317_000167	$After that, you too can show those dumb magicians a thing or two. Haha!
-QUEST_20150317_000168	Commanding Monument
-QUEST_20150317_000169	{memo X}The thieves who entered this tower were burned alive. {nl}I leave this monument as a warning to other trespassers. {nl}- Agailla Flurry
-QUEST_20150317_000170	Demon Queen Gesti
-QUEST_20150317_000171	Insolent humans.
-QUEST_20150317_000172	Just you wait. This isn't the end. {nl}Pray with your heart that Laima will save this world.
-QUEST_20150317_000173	Klaipeda Officer
-QUEST_20150317_000174	{memo X}Welcome, welcome. {nl}Sir Uska is waiting at Klaipeda's central square. {nl}Oh, did you need anything else, first?
-QUEST_20150317_000175	Do you want to head to Klaipeda's gate right away?
-QUEST_20150317_000176	Temporary Operator
-QUEST_20150317_000177	Please change this character's status.
+QUEST_20150317_000138	Klaipeda é uma cidade que vive de sua mineração. {nl}Com Medis Diena, nós deveríamos trabalhar no ou plantio ou no corte de ávores.
+QUEST_20150317_000139	Meu velho tinha essa mania de checar os cantos em busca de qualquer coisa legal. {nl}As vezes, ele dava sorte e encontrava um belo baú do tesouro. Eu me pergunto quem os deixa lá.
+QUEST_20150317_000140	Caçador Aposentado
+QUEST_20150317_000141	Eu me lembro dessa batalha num desfiladeiro profundo onde os soldados confrontavam um monstro enorme. {nl}Ver aquela coisa gigante cair foi incrível, mas o que foi mais incrível foram os despojos.
+QUEST_20150317_000142	Velho Oleiro
+QUEST_20150317_000143	Eu faço uma reza para os meus artefatos de argila, um por um. {nl}Deste modo, os vasos algum dia serão preechidos com as bênçãos da Deusa.
+QUEST_20150317_000144	{memo X}Swordsmen devem ter Strength, mas você também pode ter Dexterity e Constitution. {nl}Você terá que pensar com o que começar.
+QUEST_20150317_000145	Wizards trabalham com Intelligence, mas não podem se esquecer de Spírit para conjurar mais magias. {nl}Você deverá escolher entre ser balanceado ou mais especializado.
+QUEST_20150317_000146	{memo X}Archers devem ter Strength, mas Dexterity vai previnir problemas com movimentação. {nl}Você terá que pensar com o que começar.
+QUEST_20150317_000147	{memo X}Clerics trabalham com Intelligence, mas podem precisar de muita Strength ou Spirit. {nl}Você deveria realmente decidir o que você quer, previamente.
+QUEST_20150317_000148	Mestre Doppelsoeldner 
+QUEST_20150317_000149	Coisas que valem a pena sempre carregam um grau de risco. {nl}Naturalmente, para grandes recompensas, você terá que passar por muito perigo.
+QUEST_20150317_000150	Mestre Corsair 
+QUEST_20150317_000151	{memo X}Eu não vou ajudar ninguém em apuros se eu não receber nenhum retorno.
+QUEST_20150317_000152	Pedregulho
+QUEST_20150317_000153	Um grande pedregulho está bloqueado o caminho.
+QUEST_20150317_000154	Precisa ser consertado.
+QUEST_20150317_000155	{memo X}Um pedregulho bloqueia o caminho.
+QUEST_20150317_000156	Material de Pesquisa Mágica
+QUEST_20150317_000157	Parece ser as anotações de alguém da Mage Tower. {nl}Deveria ser copiado?
+QUEST_20150317_000158	{memo X}Esconder e espreitar não vai resolver todos os seus problemas. {nl}Um verdadeiro Scout deve também estar pronto para lutar.
+QUEST_20150317_000159	{memo X}Você vai precisar de várias coisas enquanto viaja. {nl}Tenha certeza de estocar provisões previamente.
+QUEST_20150317_000160	Se o controle mágico for dissipado, as mensagens divinas não serão protegidas.
+QUEST_20150317_000161	Cenotáfio esquecido do Ladrão
+QUEST_20150317_000162	$Eu, Zubeck, deixo este epitáfio. {nl}Pela honra de ser o maior ladrão da história, eu desafiei uma poderosa feiticeira.
+QUEST_20150317_000163	$Mas pudera eu, um mero ladrão, declarar vitória por meramente roubar dela? by merely stealing from her? {nl}Talvez, se eu pudesse roubar do maior arquimago vendado.
+QUEST_20150317_000164	$Entretanto, eu não pude. {nl}Eu quis ser o ladrão número um de toda história, não apenas hoje.
+QUEST_20150317_000165	$Pelo menos eu descobri um modo de entrar na Mage Tower. {nl}Para fazê-lo deve-se concentrar poder mágico em um local específico. {nl}Agora, eu só preciso dar mais um passo decisivo.
+QUEST_20150317_000166	$Então, meu dispositivo especial vai se ativar. {nl}Se você fizer como eu fiz, você será capaz de entrar na torre também.
+QUEST_20150317_000167	$Depois disso, você também vai poder mostrar aqueles magos estúpidos umas coisinhas. Haha!
+QUEST_20150317_000168	Monumento Comandante
+QUEST_20150317_000169	{memo X}Os ladrões que adentraram esta torre foram queimados vivos. {nl}Eu deixarei esse monumento como um sinal para outros invasores. {nl}- Agailla Flurry
+QUEST_20150317_000170	Rainha Demônio Gesti
+QUEST_20150317_000171	Humanos insolentes.
+QUEST_20150317_000172	Aguardem.Este não é o fim. {nl}Orem de coração que aquela Laima vai salvar este mundo.
+QUEST_20150317_000173	Oficial Klaipeda
+QUEST_20150317_000174	{memo X}Bem-vindos, bem-vindos. {nl}Sir Uska está aguardando na praça central de Klaipeda. {nl}Oh, você precisava de mais alguma coisa, antes?
+QUEST_20150317_000175	Você quer se dirigir ao portão de Klaipeda imediatamente?
+QUEST_20150317_000176	Operador Temporário
+QUEST_20150317_000177	Por favor altere o status deste personagem.
 QUEST_20150317_000178	NPC HIDE/UNHIDE Setting!
-QUEST_20150317_000179	Follower Algis
+QUEST_20150317_000179	Seguidor Algis
 QUEST_20150317_000180	This is the moment the Goddess foretold to the first Paladin. {nl}Come. Ask me anything.
 QUEST_20150317_000181	A long, long time ago, there were nomads that suffered from a cursed plague. {nl}The honorable first Paladin removed the curse with a Holy Relic.
 QUEST_20150317_000182	The wardens are descendants of those nomads. {nl}However, the Holy Relic was not meant to be used for healing those people.
